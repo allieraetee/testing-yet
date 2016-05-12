@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lectoratest>
+<survey>0</survey>
+<grade>1</grade>
+<showresults>10</showresults>
+<scoreonly>0</scoreonly>
+<get>0</get>
+<incvar>0</incvar>
+<promptsuccess>1</promptsuccess>
+<persist>1</persist>
+<name>Test 1</name>
+<testtime>0</testtime>
+<numrandom>0</numrandom>
+<passinggrade>75</passinggrade>
+<cancelfail>course_test_1_fail.html</cancelfail>
+<passdone>course_test_1_pass.html</passdone>
+<prevpage>course_page_3.html</prevpage>
+<gdocs>0</gdocs>
+<page>
+<index>0</index>
+<name>course_test_1_page_5.html</name>
+</page>
+<page>
+<index>1</index>
+<name>course_test_1_puppies_page.html</name>
+<question>
+<id>258</id>
+<type>1</type>
+<weight>1</weight>
+<name>Are puppies cute?</name>
+<var>VarQuestion_258</var>
+<text>Puppies are very cute creatures.</text>
+<correctans>True</correctans>
+<choices>True|False</choices>
+<statements></statements>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>2</index>
+<name>course_test_1_kitties_page.html</name>
+<question>
+<id>273</id>
+<type>1</type>
+<weight>1</weight>
+<name>are kitties cute</name>
+<var>VarQuestion_273</var>
+<text>Kitties are adorable creatures. </text>
+<correctans>True</correctans>
+<choices>True|False</choices>
+<statements></statements>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>3</index>
+<name>course_test_1_math.html</name>
+<question>
+<id>296</id>
+<type>13</type>
+<weight>1</weight>
+<name>math 2</name>
+<var>Varmath2</var>
+<text>10 + 50 =</text>
+<correctans>60</correctans>
+<choices>60</choices>
+<statements></statements>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>1</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>or</separator>
+<relationship>1</relationship>
+</question>
+<question>
+<id>288</id>
+<type>13</type>
+<weight>1</weight>
+<name>math 1</name>
+<var>Varmath1</var>
+<text>2 + 2 = </text>
+<correctans>4</correctans>
+<choices>4</choices>
+<statements></statements>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>1</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>or</separator>
+<relationship>1</relationship>
+</question>
+</page>
+<page>
+<index>4</index>
+<name>course_test_1_last_test_page.html</name>
+</page>
+</lectoratest>
